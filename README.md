@@ -14,11 +14,6 @@ I am eager to launch my career in the dynamic field of cybersecurity. My objecti
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 
-- [Python](https://www.python.org/) - A versatile and powerful programming language that I use for various tasks including automation, scripting, and data analysis.
-MySQL - A widely used relational database management system that I utilize for managing and querying data efficiently.
-Kali Linux - A powerful Linux distribution specifically designed for penetration testing and cybersecurity tasks.
-
-
 
 
 
