@@ -61,7 +61,7 @@ I am eager to launch my career in the dynamic field of cybersecurity. My objecti
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/Triggiano/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
 Scripting and Automation for Threat Mitigation	SOC Automation Lab
 Tools
